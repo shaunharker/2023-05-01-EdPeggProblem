@@ -3,7 +3,7 @@
 How many of the nine-digit permutations of 123456789 can be represented by 4 digits and two arithmetic symbols?  
 For example, 9*14^7 = 948721536.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fed.pegg%2Fposts%2Fpfbid02muocAwL2V8VD9y5fjxCgFssD6PnSWuRs9LeqcgjBKL5Arwxc9qLfJx1h4vKjYF82l&show_text=true&width=500" width="500" height="188" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+[Link to Facebook Post](https://www.facebook.com/ed.pegg/posts/pfbid02muocAwL2V8VD9y5fjxCgFssD6PnSWuRs9LeqcgjBKL5Arwxc9qLfJx1h4vKjYF82l)
 
 GPT-4 provided the following solution after a few rounds:
 
